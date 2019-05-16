@@ -4,3 +4,5 @@
 teste de mais uma atualização
 
 teste fetch/merge
+
+teste com o pull
