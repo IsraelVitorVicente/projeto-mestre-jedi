@@ -2,3 +2,5 @@
 ## para formação javascript curso udemy
 
 teste de mais uma atualização
+
+teste fetch/merge
