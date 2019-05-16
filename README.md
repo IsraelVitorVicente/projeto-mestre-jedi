@@ -5,4 +5,4 @@ teste de mais uma atualização
 
 teste fetch/merge
 
-teste com o pull
+teste com o pull informando origin master
